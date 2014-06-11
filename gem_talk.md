@@ -39,7 +39,7 @@ CSS<br>
 3. Run bundle install
 4. Restart server, then rename application.css to application.css.scss
 5. All additional stylesheets must be imported below Bourbon, like so:<br>
-  *@import 'bourbon';<br>
-  *@import 'home';<br>
-  *@import 'users';
+  @import 'bourbon';<br>
+  @import 'home';<br>
+  @import 'users';
 
