@@ -1,7 +1,7 @@
 ##Overview of the Gem
 
 1. Bourbon is a SASS mixin library.
-..*SASS (Syntactically Awesome Stylesheets Sass) is a CSS extension language that lets you use features that don't yet exist in CSS, such as variables, nesting, mixins and inheritance. It offers object-oriented mechanisms that aren't available in CSS3. Basically, it's syntactic sugar for CSS.
+  *SASS (Syntactically Awesome Stylesheets Sass) is a CSS extension language that lets you use features that don't yet exist in CSS, such as variables, nesting, mixins and inheritance. It offers object-oriented mechanisms that aren't available in CSS3. Basically, it's syntactic sugar for CSS.
 
 2. Bourbon eliminates vendor prefixes. Some are -webkit-(Android), -moz-(Firefox), and -ms- (Internet Explorer).
 
@@ -39,7 +39,7 @@ CSS<br>
 3. Run bundle install
 4. Restart server, then rename application.css to application.css.scss
 5. All additional stylesheets must be imported below Bourbon, like so:
-..*@import 'bourbon';
-..*@import 'home';
-..*@import 'users';
+  *@import 'bourbon';
+  *@import 'home';
+  *@import 'users';
 
