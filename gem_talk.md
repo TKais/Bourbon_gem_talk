@@ -5,14 +5,14 @@
 
 2. Bourbon eliminates vendor prefixes. Some are -webkit-(Android), -moz-(Firefox), and -ms- (Internet Explorer).
 
-3. Some sites that use it are Disney, Thoughtbot, and Breaking Bad's Danish site.
+3. Some sites that use it are Disney, Thoughtbot, and Breaking Bad's Danish website.
 
 
 ##Examples
 
-BOURBON
+<br Bourbon />
 `font-family: $helvetica;`
-CSS
+CSS<br>
 `font-family: "Helvetica-Neue", Helvetica, Roboto, Arial, sans-serif;`
 
 
